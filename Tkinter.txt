@@ -1,0 +1,22 @@
+TKINTER
+
+
+Tkinter is the Library of the python.That is used to create a GUI Applications (Graphical User Interface)
+
+Also used to Desktop based Applications
+
+
+How to Write a first code of the Tkinter
+
+
+import Tkinter
+from tkinter import *
+
+Create a window Object of the tkinter
+
+
+win = Tk()//Create a window
+
+win.mainloop()   Infinite Loop
+
+

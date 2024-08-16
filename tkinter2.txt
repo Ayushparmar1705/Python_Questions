@@ -1,0 +1,71 @@
+Tkinter
+Win
+Geometry
+Title
+
+Forms
+
+Label -  (one-line text)
+Entry - (Single line input)
+Text  - Multiline Input
+Spinbox - (number input)
+Radiobutton 
+Option Menu    (dropdown)
+Checkbox      
+LabelFrame
+Scale
+Button 
+Button click event
+progressbar
+
+Geometry Management 
+
+Pack()
+Grid()
+Place()
+
+Frames and layout and window
+ 
+Panedwindow  : Create and manage frames
+Frames: Create frames and containers
+Toplevel: Create a new Window
+
+Images
+Images
+Pillow library
+JPG, PNG
+
+Menu and sub-menus
+
+Menu: To create new a menu
+Add_command: To add items to the menu
+Add_cascade: To add a Menu inside a menu (submenu)
+Add_seperator: To add a line between two items
+Tear off = 0: to remove the default line in the first menu item
+
+Shapes and Drawing
+
+Canvas
+Rectangle
+Oval
+Co-ordinates :  x1,y1  and x2,y2
+
+Message box
+
+Messagebox: library for the message box
+show info: 
+Show warning
+Show error
+Askretry
+Askyesnocancel
+
+
+Projects
+
+Student management
+CRUD (create, read, update, delete)
+Login logout app
+Encryption decryption 
+Password validator
+Chessboard 
+Ice cream management UI
